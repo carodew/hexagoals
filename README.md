@@ -2,7 +2,7 @@
 
 Enough people asked me about this (ok, just my mom) that I decided to make a little read me. This is based on something I noticed my cousin doing with her friends on an unnamed social media site. She posted an image of a sheet of paper with a square grid on it, in some of the squares she had activities written that she had wanted to do during the year with the number of times she wanted to do them. In the adjacent squares she marked off each time she did the thing. I liked the idea so I joined in. The following year I thought maybe we should try hexagons (I may have been little obsessed with hexagons at the time).
 
-## suggestions on …
+## suggestions
 
 ### how to do it
 
