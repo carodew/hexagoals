@@ -9,7 +9,7 @@ Enough people asked me about this (ok, just my mom) that I decided to make a lit
 1. Find a printable grid online and download it. I like this [hexagon graph paper PDF](http://www.printablepaper.net/preview/hexagon-portrait-letter-2), but anything with about one-half to one inch spacing should suffice.   
 2. Print it out!
 3. Fill it in. Have fun and use colors. 
-4. Share it! Submit an issue on this repo or post it to social media and be the envy (or annoyance) of your friends!
+4. Share it! [Submit an issue on this repo](https://github.com/carodew/hexagoals/issues/new) or post it to social media and be the envy (or annoyance) of your friends!
 
 ### Filling it out
 
