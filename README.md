@@ -1,6 +1,14 @@
 # hexagoals
 
-Enough people asked me about this (ok, just my mom) that I decided to make a little read me. This is based on something I noticed my cousin doing with her friends on an unnamed social media site. She posted an image of a sheet of paper with a square grid on it, in some of the squares she had activities written that she had wanted to do during the year with the number of times she wanted to do them. In the adjacent squares she marked off each time she did the thing. I liked the idea so I joined in. The following year I thought maybe we should try hexagons (I may have been little obsessed with hexagons at the time).
+Enough people asked me about this (ok, just my mom) that I decided to make a little read me. This is something I noticed my cousin Anna Warren doing a couple years ago on an unnamed social media site. She posted an image of a sheet of paper with a square grid on it, in some of the squares she had activities written that she had wanted to do during the year with the number of times she wanted to do them. In the adjacent squares she marked off each time she did the thing. I liked the idea so I joined in. The following year I thought maybe we should try hexagons, because HEXAGONS AMIRITE? 
+
+I asked Anna why she started it, and she said, "I love lists, and I wanted some sort of visual representation of my progress. I TRY to use the goals as a check-in, as a way of monitoring the things that I am actually prioritising vs the things I say are important to me. Not as a way of proving my failings to myself. I guess you could say I invented it, but that sounds grandiose."
+
+Well, we're ok with grandiose, especially since she used this system to [START HER OWN FRIGGIN' BUSINESS](http://www.tactilecraftworks.com/) and BUY A LASER CUTTER. (PEW! PEW! PEW!)
+
+_Anna's 2014 Goals, or The Year of Completely Kicking Ass at Professional Goals_
+![squaregoals](https://cloud.githubusercontent.com/assets/10144074/12068839/eac5653c-afe4-11e5-816d-6932f440bb71.jpg)
+
 
 ## suggestions
 
