@@ -10,8 +10,6 @@ Enough people asked me about this (ok, just my mom) that I decided to make a lit
 2. Print it out!
 3. Fill it in. Have fun and use colors. 
 
-_image forthcoming_
-
 ### Filling it out
 
 1. I prefer to set goals that feed my soul, are fun, or help me grow as a person. I recommend avoiding goals that are driven by guilt or that make me feel bad about myself, or that will eventually make me feel guilty if I miss a few. That means I avoid goals related to: 
@@ -21,6 +19,9 @@ _image forthcoming_
   * Goals that are too dependent on things I can't control to accomplish
   * Drastic lifestyle changes (little adjustments stick better.)
   * Goals that require spending a lot of money
+ 
+![2015-12-27 11 01 53](https://cloud.githubusercontent.com/assets/10144074/12068751/846ee724-afe2-11e5-92c5-a568a7154f91.jpg)
+
 
 2. Each goal should be a discrete action that can be completed. Go camping 2x can be completed. 'Camp more' is a bit too vague. 
 3. Don't worry about filling in every space on the page. You can add things (or subtract them) as you go. Or you can leave them blank. The number of spaces on the page is completely arbitrary. You get to decide how much or how little you want to do. 
