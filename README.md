@@ -21,10 +21,11 @@ _Anna's 2014 Goals, or The Year of Completely Kicking Ass at Professional Goals_
 
 ### Filling it out
 
-1. I prefer to set goals that feed my soul, are fun, or help me grow as a person. I recommend avoiding goals that are driven by guilt or that make me feel bad about myself, or that will eventually make me feel guilty if I miss a few. That means I avoid goals related to: 
+1. I prefer to set goals that feed my soul, are fun, or help me grow as a person. I avoid goals that are driven by guilt or that make me feel bad about myself, or that will eventually make me feel guilty if I miss a few. That means I avoid goals related to: 
   * weight loss (Ugh, no. Don't do it). 
-  * unsustainably hard core fitness plans
+  * unsustainably hard core fitness plans (if the name of the workout uses the letter X as a syllable, it's probably a bad idea)
   * All the Things goals
+  * Goals that require me to double down if I miss a week or two. I don't need that shit piling up.
   * Goals that are too dependent on things I can't control to accomplish
   * Drastic lifestyle changes (little adjustments stick better.)
   * Goals that require spending a lot of money
